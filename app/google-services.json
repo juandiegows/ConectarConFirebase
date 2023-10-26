@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198884234677",
+    "project_id": "conectarconfirebase-f2c0e",
+    "storage_bucket": "conectarconfirebase-f2c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198884234677:android:2630e3f5a0e8fd72cc35fc",
+        "android_client_info": {
+          "package_name": "com.example.conectarconfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAANuHEnPpPEhIu3SlYQ2EOIgy53pxH03s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
